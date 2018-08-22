@@ -1,0 +1,8 @@
+t01, dual core, 2, 2
+t02, quad core, 8, 8
+t03, octa core, 16, 8
+t04, dual core, 8, 4
+t05, quad core, 12, 8
+t06, quad core, 16, 4
+t07, dual core, 8, 4
+t08, quad core, 8, 8

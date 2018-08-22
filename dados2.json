@@ -1,0 +1,50 @@
+[
+    {
+        "maquina": "t01",
+        "core": " dual core",
+        "memoria": " 2",
+        "storage": " 2"
+    },
+    {
+        "maquina": "t02",
+        "core": " quad core",
+        "memoria": " 8",
+        "storage": " 8"
+    },
+    {
+        "maquina": "t03",
+        "core": " octa core",
+        "memoria": " 16",
+        "storage": " 8"
+    },
+    {
+        "maquina": "t04",
+        "core": " dual core",
+        "memoria": " 8",
+        "storage": " 4"
+    },
+    {
+        "maquina": "t05",
+        "core": " quad core",
+        "memoria": " 12",
+        "storage": " 8"
+    },
+    {
+        "maquina": "t06",
+        "core": " quad core",
+        "memoria": " 16",
+        "storage": " 4"
+    },
+    {
+        "maquina": "t07",
+        "core": " dual core",
+        "memoria": " 8",
+        "storage": " 4"
+    },
+    {
+        "maquina": "t08",
+        "core": " quad core",
+        "memoria": " 8",
+        "storage": " 8"
+    }
+]
